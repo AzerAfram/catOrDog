@@ -9,5 +9,5 @@ Loss:
 <img src="https://github.com/AzerAfram/catOrDog/blob/main/images/loss.png" alt="Alt text" title="Loss">
 
 <br> 
-Thanks to Alex Renotte for a baseline as well as Serkan Peldek for the model architecture.
+Thanks to Alex Renotte for the baseline as well as Serkan Peldek for the model architecture.
 
