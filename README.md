@@ -1,5 +1,5 @@
 #Cat or Dog?
-This model has been trained to solve the following problem: given a picture of a cat or dog, identify if the image contains a cat or dog. It has been trained on the Cats vs Dogs dataset on Kaggle. 
+This model has been trained to classifiy of images of cats and dogs. Training images was from the <a href = "https://www.kaggle.com/c/dogs-vs-cats">Cats vs Dogs dataset</a> on Kaggle. 
 
 Accuracy: 
 <br>
