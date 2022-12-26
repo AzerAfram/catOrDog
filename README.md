@@ -3,9 +3,9 @@ This model has been trained to classifiy of images of cats and dogs. Training im
 
 Accuracy: 
 <br>
-<img src="[/path/to/img.jpg](https://github.com/AzerAfram/catOrDog/blob/main/images/accuracy.png)" alt="Alt text" title="Accuracy">
+<img src="https://github.com/AzerAfram/catOrDog/blob/main/images/accuracy.png" alt="Alt text" title="Accuracy">
 
 Loss: 
 <br>
-<img src="[/path/to/img.jpg](https://github.com/AzerAfram/catOrDog/blob/main/images/loss.png)" alt="Alt text" title="Loss">
+<img src="https://github.com/AzerAfram/catOrDog/blob/main/images/loss.png" alt="Alt text" title="Loss">
 
