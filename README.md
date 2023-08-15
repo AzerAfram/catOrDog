@@ -1,4 +1,4 @@
-This model has been trained to classifiy images of cats and dogs. Training images was from the <a href = "https://www.kaggle.com/c/dogs-vs-cats">Cats vs Dogs dataset</a> on Kaggle. 
+This model has been trained to classifiy images of cats and dogs. Training images: <a href = "https://www.kaggle.com/c/dogs-vs-cats">Cats vs Dogs dataset</a>.
 
 Accuracy: 
 <br>
